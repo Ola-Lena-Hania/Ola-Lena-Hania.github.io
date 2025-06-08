@@ -1,6 +1,6 @@
 body
 {
-    background-color: rgb(235, 178, 239);
+    background-color: rgb(170, 217, 241);
     font-family: courier, monospace;
     font-size: 18px;
     padding-right: 20px;
@@ -23,7 +23,7 @@ body
     padding-top:5px;
     margin-top:3px;
     padding-bottom:5px;
-    background-color: rgb(158, 19, 19);
+    background-color: rgb(34, 85, 98);
     color: white;
     text-align: center;
     position: fixed;
@@ -42,7 +42,7 @@ body
     float: right;
     width: 20%;
     height: 100%;
-    border-left: 1.5px solid blue;
+    border-left: 1.5px solid rgb(17, 112, 163);
     padding-left: 10px;
     margin-left: 10px;
 }
@@ -66,7 +66,7 @@ body
 }
 .section:hover
 {
-    background-color: blue;
+    background-color: rgb(58, 58, 226);
     color: white;
 }
 .section
